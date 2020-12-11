@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d38dc9b2a65db04a82138e057c5fd08, type: 3}
+  m_Name: Velho
+  m_EditorClassIdentifier: 
+  mensagem:
+  - "???;5;1;0;Voc\xEAs est\xE3o perdidos? faz tempo que eu n\xE3o vejo humanos aqui."
+  - "???;0;0;0;O que voc\xEA quer dizer com humanos?"
+  - ???;5;1;0;Ora, digo gente viva, esse lugar pode ser estranho de vez em quando.
+  - "???;1;0;0;Voc\xEA parece saber bastante daqui, seu velho estranho. "
+  - "???;5;1;0;N\xE3o muito, voc\xEA ficaria surpresa. Querem uma carona?"
+  - "???;0;0;0;Pra onde? Voc\xEA pretende levat a gente pra casa?"
+  - "???;5;1;0;Voc\xEAs t\xE3o muito longe de casa, eu n\xE3o posso. Vou levar voc\xEAs
+    pro gerente, ele vai saber o que fazer."
+  - ???;0;0;0;Eu sempre quis andar em um barco.
+  - "???;0;1;0;Espera, seu idiota, ele \xE9 muito suspeito. Parece um homicida."
+  - "???;5;1;0;Voc\xEAs podem ficar se quiserem, n\xE3o vou obrigar ningu\xE9m a nada.
+    Eu n\xE3o recomendo, aqui n\xE3o tem muita coisa para fazer."
+  - "???;5;1;0;A escolha \xE9 de voc\xEAs."
+  - "???;0;1;0;Eu acho isso uma p\xE9ssima ideia."
+  - "???;0;0;0;Mas eu quero andar de barco. E n\xE3o tem outro aqui."
+  - "???;0;1;0;A gente pode esperar, n\xE3o sei. Algu\xE9m deve aparecer."
+  - "???;0;0;0;Ent\xE3o t\xE1, Guinevere. Se voc\xEA t\xE1 com medo, a gente pode
+    esperar outro barco."
+  - "???;0;1;0;Eu n\xE3o t\xF3 com medo. Esse cara s\xF3 \xE9 estranho. Esse lugar
+    \xE9 estranho,"
+  - "???;0;0;0;Voc\xEA n\xE3o precisa fingir, Gui. Eu vou esperar aqui com voc\xEA."
+  - "???;0;1;0;N\xE3o me chama de Gui. "
+  - "???;0;1;0;Ent\xE3o t\xE1, que inferno. Vamos. Se algu\xE9m morrer a culpa \xE9
+    sua."
+  - ???;0;0;0;Obrigado.
+  - "???;5;1;0;Ent\xE3o subam. N\xE3o deve demorar."
+  nomeEscolha: 
+  filhos:
+  - {fileID: 11400000, guid: 991e31506e7852a47bfd44bb951ac5a5, type: 2}

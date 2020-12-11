@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d38dc9b2a65db04a82138e057c5fd08, type: 3}
+  m_Name: PinturaOceano
+  m_EditorClassIdentifier: 
+  mensagem:
+  - "Orange;0;0;0;Eu conhe\xE7o esse. \xC9 o mar de cabo frio."
+  - "Guinevere;0;1;0;Como voc\xEA sabe disso?"
+  - "Orange;0;0;0;Est\xE1 escrito no quadro."
+  - "Guinevere;0;1;0;Voc\xEA tem uma vista boa, Isso \xE9 muito pequeno."
+  - Orange;0;0;0;Eu ia para o oceano uma vez por ano.
+  - "Orange;0;0;0;Meu irm\xE3o costumava roubar meu dinheiro para comprar comida na
+    praia."
+  - "Orange;0;0;0;A\xED ele passava mal."
+  - "Orange;0;0;0;N\xE3o era muito divertido."
+  nomeEscolha: 
+  filhos: []

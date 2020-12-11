@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d38dc9b2a65db04a82138e057c5fd08, type: 3}
+  m_Name: Espelho
+  m_EditorClassIdentifier: 
+  mensagem:
+  - "???;0;0;0;\xC9 um espelho."
+  - ???;0;1;0;...
+  - "???;0;0;0;O qu\xEA?"
+  - "???;0;1;0;Ele n\xE3o t\xE1 refletindo nada."
+  - "???;0;1;0;Que estranho, \xE9 com certeza vidro."
+  - "???;0;0;0;Pode ser um daqueles espelhos de m\xE1gico."
+  - ???;0;0;0;Ele deve ter esquecido.
+  nomeEscolha: 
+  filhos: []

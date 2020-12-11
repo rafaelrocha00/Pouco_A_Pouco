@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d38dc9b2a65db04a82138e057c5fd08, type: 3}
+  m_Name: Livro 2
+  m_EditorClassIdentifier: 
+  mensagem:
+  - "Orange;0;0;0;\"O que eu farei agora? Meu irm\xE3o era a pedra que me fazia levantar
+    da cama todo dia.\""
+  - "Orange;0;0;0;\"N\xE3o se preocupe, Ken. Eu serei seu degrau, seu guarda-chuva
+    e sua espada.\""
+  - Orange;0;0;0;"Olaf... Ken olhou profundamente nos olhos de seu parceiro. "
+  - 'Orange;0;0;0;"Ambos sabiam que tinham um lugar para voltar um no outro. '
+  - "Orange;0;0;0;\"Mesmo que o traidor ainda estivesse na casa, eles deixaram seus
+    medos atr\xE1s da porta e a fecharam.\""
+  - "Orange;0;0;0;\"Do outro lado da janela, uma flor de Sakura \xE9 levada pelo vento.\""
+  - "Orange;0;0;0;[Voc\xEA n\xE3o consegue virar a pagina. Seus olhos se enchem de
+    lagr\xEDmas e antecipa\xE7\xE3o sobre o futuro dos dois. ]"
+  nomeEscolha: Obvio
+  filhos: []

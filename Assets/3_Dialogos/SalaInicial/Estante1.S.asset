@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d38dc9b2a65db04a82138e057c5fd08, type: 3}
+  m_Name: Estante1.S
+  m_EditorClassIdentifier: 
+  mensagem:
+  - "Orange;0;0;0;\"A palavra do dia \xE9 resigna\xE7\xE3o.\""
+  - "Orange;0;0;0;\"A triste realiza\xE7\xE3o de que a vida n\xE3o tem sentido.\""
+  - "Orange;0;0;0;\"Ou algo do tipo. De que adianta escrever algo que ningu\xE9m em
+    s\xE3 consciencia l\xEA?\""
+  - "Orange;0;0;0;\"Rio: \xE9 a maldita coisa azul que afoga pessoas.\""
+  - Orange;0;0;0;"Eu preciso de terapia."
+  nomeEscolha: Sim
+  filhos: []

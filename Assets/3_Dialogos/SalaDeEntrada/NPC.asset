@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceba37ecb9d4d014d98243d8fc65bb8c, type: 3}
+  m_Name: NPC
+  m_EditorClassIdentifier: 
+  mensagem:
+  - "Orange;0;0;0;Ent\xE3o, como podemos assust\xE1-lo?"
+  - "Orange Ghost;2;1;0;Siga seu cora\xE7\xE3o, voc\xEA \xE9 um fantasma, n\xE3o \xE9?
+    N\xE3o seria divertido te dar a resposta."
+  nomeEscolha: 
+  filhos: []

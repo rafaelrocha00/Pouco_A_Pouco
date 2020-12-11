@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d38dc9b2a65db04a82138e057c5fd08, type: 3}
+  m_Name: Porta
+  m_EditorClassIdentifier: 
+  mensagem:
+  - Guinevere;0;1;0;Essa deve ser a porta pra cima, mas essas barras parecem bem fortes.
+  - "Orange;0;0;0;Quem sabe a gente tenha que cantar uma m\xFAsica para ela abrir."
+  - "Guinevere;0;1;0;Por que voc\xEA n\xE3o senta no canto enquanto eu resolvo esse
+    problema?"
+  - Orange;0;0;0;Ou quem sabe temos que assustar pessoas para passar. Eu sou um fantasma.
+  - "Guinevere;0;1;0;Ent\xE3o t\xE1, por que voc\xEA n\xE3o tenta com aquela senhora?
+    Eu vou resolver as coisas aqui."
+  - "Orange;0;0;0;Orange Di Lanterns n\xE3o vai te decepcionar!"
+  nomeEscolha: 
+  filhos: []

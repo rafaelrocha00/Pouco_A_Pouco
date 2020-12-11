@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91ff497fa73a35a4c8d8b0967bcb2ff3, type: 3}
+  m_Name: Porta3
+  m_EditorClassIdentifier: 
+  mensagem:
+  - "???;0;0;0;\"Para abrir uma porta, voc\xEA deve pedir para a porta educadamente.\""
+  - "???;0;0;0;\"N\xE3o se esque\xE7a de agradecer.\""
+  - ???;0;0;0;Pode abrir, por favor?
+  - ???;0;0;0;[A porta abre com um click.]
+  nomeEscolha: Abrir
+  filhos: []
+  item: {fileID: 11400000, guid: 695a73200248cbf44907d1df995762fd, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d38dc9b2a65db04a82138e057c5fd08, type: 3}
+  m_Name: Fantasma 2
+  m_EditorClassIdentifier: 
+  mensagem:
+  - "Guinevere;1;0;0;Por que voc\xEA t\xE1 vendendo?"
+  - Fantasma;3;1;0;Porque eu sou responsavel.
+  - "Guinevere;1;0;0; Voc\xEA n\xE3o parece do tipo."
+  - Fantasma;3;1;0;Ei. Chega desse disrespeito ai.
+  - "Fantasma;3;1;0;Eu posso ter matado algu\xE9m de susto e isso n\xE3o pega bem."
+  - "Fantasma;3;1;0;Eu posso ter explodido um botij\xE3o de g\xE1s e interditado um
+    andar inteiro."
+  - "Fantasma;3;1;0;Mas isso s\xE3o extras, endenderam? Extras."
+  - Fantasma;3;1;0;Agoram comprem uma caimsa ou saiam daqui.
+  nomeEscolha: "Por que voc\xEA?"
+  filhos: []

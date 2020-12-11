@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: c76701181a4c7954c9ac730433944ae7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1980149766462894506
+    second: SkillTreeBack
+  - first:
+      213: 8924834163004512398
+    second: Aparecer_Skill
+  - first:
+      213: -5951433540093370254
+    second: SkillCheck_Red
+  - first:
+      213: -6474374092052333624
+    second: MoverObjetos_Skill
+  - first:
+      213: -4654863013470281883
+    second: SkillCheck_BlackRed
+  - first:
+      213: 4244240740574868729
+    second: Quebrar_Skill
+  - first:
+      213: 7525034696259728306
+    second: SkillCheck_Blue
+  - first:
+      213: 1825436373184098237
+    second: Ilusao_Skill
+  - first:
+      213: 3820354140779829311
+    second: SkillCheck_Cyian
+  - first:
+      213: -9059463047230692078
+    second: SkillTree_17
+  - first:
+      213: -254433663829184369
+    second: DesligarLuz_Skill
+  - first:
+      213: 8841311284288666362
+    second: SkillCheck_Green
+  - first:
+      213: -3373159055150033817
+    second: SkillTree_20
+  - first:
+      213: -3075850742412462452
+    second: SkillTree_21
+  - first:
+      213: -8377372715523651524
+    second: SkillTree_22
+  - first:
+      213: 7488170563192050555
+    second: Arrepio
+  - first:
+      213: 2398923949057976270
+    second: SkillTree_24
+  - first:
+      213: -1461689710761575260
+    second: SkillTree_25
+  - first:
+      213: -3557331620776455286
+    second: SkillTree_26
+  - first:
+      213: -6617030367699888384
+    second: SkillTree_27
+  - first:
+      213: -2539251463794873733
+    second: SkillTree_28
+  - first:
+      213: -1566190856953916884
+    second: AreaLevantar_Skill
+  - first:
+      213: 3348892073377781986
+    second: Pesadelo_Skill
+  - first:
+      213: 4348575320575933743
+    second: SkillTree_31
+  - first:
+      213: -3380991837035016386
+    second: Friagem_Skill
+  - first:
+      213: -2452568067063233483
+    second: SkillTree_33
+  - first:
+      213: -3126195194896411055
+    second: SkillTree_34
+  - first:
+      213: 1999270018844712182
+    second: LigarAparelho
+  - first:
+      213: -2035539775948139466
+    second: LevantarForte
+  - first:
+      213: -1044915590662191475
+    second: SkillCheck_Yellow
+  - first:
+      213: -5018254995302665647
+    second: SkillCheck_White
+  - first:
+      213: -280463940389904251
+    second: SkillCheck_LightBlue
+  - first:
+      213: -1385266429362126733
+    second: SkillCheck_LightGreen
+  - first:
+      213: -2348553681153008517
+    second: Selecao
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkillTreeBack
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 926
+        width: 1782
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d956b9e54fff384f9166ac9bc122997
+      internalID: -1980149766462894506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aparecer_Skill
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1934
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91bb2c8f0f417240b017183edb77a0f
+      internalID: 8924834163004512398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillCheck_Red
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1920
+        width: 111
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84dbdbb6c46bc94c80796d4ee4421a3
+      internalID: -5951433540093370254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoverObjetos_Skill
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1821
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b7339605b3e32458da0e9143fed27f
+      internalID: -6474374092052333624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillCheck_BlackRed
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1809
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f34a78b1d8381d4f946b6580a26608b
+      internalID: -4654863013470281883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quebrar_Skill
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1705
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c33e3a11e9d7e4191724eb44b35a1c
+      internalID: 4244240740574868729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillCheck_Blue
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1693
+        width: 111
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f95b33469ff784c9b065ad09f7066a
+      internalID: 7525034696259728306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilusao_Skill
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1583
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a0e598a814e154d84d0063c3c966be
+      internalID: 1825436373184098237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillCheck_Cyian
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1579
+        width: 111
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cd3759a71417d42b3920389a99d983
+      internalID: 3820354140779829311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillTree_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1517
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3105e089fff084cb5011175dbc76cf
+      internalID: -9059463047230692078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesligarLuz_Skill
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1486
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fb0806c527bea4b9650c58232a5954
+      internalID: -254433663829184369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillCheck_Green
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1459
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a068f3e0b03754d940eb8a3765f3bc
+      internalID: 8841311284288666362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillTree_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1463
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5404a8c508eba7a409973401aca81648
+      internalID: -3373159055150033817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillTree_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1428
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9054262e7e2810746bea028ecd6392c6
+      internalID: -3075850742412462452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillTree_22
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1426
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87910d2edbd474c478b6a27b03962819
+      internalID: -8377372715523651524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrepio
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1371
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1fa81358a483c43bc224df1fa58ffc
+      internalID: 7488170563192050555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillTree_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1385
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d0e25bef8ca194b8bc758562df329d
+      internalID: 2398923949057976270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillTree_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1353
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa215c3f22a815242b190b607e059cb9
+      internalID: -1461689710761575260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillTree_26
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1348
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0329a856c9a354eb33dde784f966c7
+      internalID: -3557331620776455286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillTree_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1314
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822d882768f2da94c8c79c8da553ac22
+      internalID: -6617030367699888384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillTree_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1302
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a68cdaa7ce9d4a4487902d1119e7706
+      internalID: -2539251463794873733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaLevantar_Skill
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1260
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfba54a98db5b50469da850329d230c2
+      internalID: -1566190856953916884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pesadelo_Skill
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1179
+        width: 92
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b795e251ec304848ba65efa7d2e4329
+      internalID: 3348892073377781986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillTree_31
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1128
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51e203543c974c41b72b17554095e71
+      internalID: 4348575320575933743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Friagem_Skill
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1071
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160cde72f0deb2c4daa320010a2529da
+      internalID: -3380991837035016386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillTree_33
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1103
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab77560f7f6beab4e8cd94e0de0502ba
+      internalID: -2452568067063233483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillTree_34
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 1063
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd2971f86e58bf499565bf897a593fe
+      internalID: -3126195194896411055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigarAparelho
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 948
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a4b90e35d60b243b25e6f2847f1a33
+      internalID: 1999270018844712182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevantarForte
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 853
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ee721e666ae244489ad38756ce91f2
+      internalID: -2035539775948139466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillCheck_Yellow
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1339
+        width: 111
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5670e0d835fed744c9e1579d3d1c7f33
+      internalID: -1044915590662191475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillCheck_White
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1217
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793bdcdf946f1c04cbe4a3e09478a793
+      internalID: -5018254995302665647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillCheck_LightBlue
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1095
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8a0798f38b55e4a80e0af26b0381c4
+      internalID: -280463940389904251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillCheck_LightGreen
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 968
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41774ca089e65bb4c9bcd399ca57c589
+      internalID: -1385266429362126733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selecao
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 823
+        width: 129
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79c16fcbfef8ab4f8b5c36c2dcf23a2
+      internalID: -2348553681153008517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 74efb0389081a68469f67d6fa3a30fc5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

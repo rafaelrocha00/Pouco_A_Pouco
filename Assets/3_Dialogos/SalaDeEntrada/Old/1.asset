@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d38dc9b2a65db04a82138e057c5fd08, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  mensagem:
+  - "???;1;1;0;Viajando pela imensid\xE3o do universo. Essa \xE9 boa."
+  - "Guinevere;1;0;0;Hey, voc\xEA. "
+  - "???;1;1;0;...Um gato falante e um humano. Isso \xE9 novo aqui."
+  - "???;0;0;0;O que \xE9 aqui?"
+  - "???;1;1;0;Boa. \xC9 uma pergunta profunda. Onde \xE9 aqui? O que \xE9 estar vivo?
+    O que \xE9 o p\xE3o de todo dia em compara\xE7\xE3o ao brilho das estrelas?"
+  - "Guinevere;1;0;0;Esse cara \xE9 um man\xEDaco. Vamos encontrar outra pessoa."
+  - "???;1;1;0;Calma, eu s\xF3 to enchendo o saco."
+  - "???;1;1;0;Aqui \xE9 o \xFAltimo ponto de parada. O lugar onde os mortos se v\xE3o."
+  - "???;0;0;0;Voc\xEA est\xE1 dizendo que a gente t\xE1 morto?"
+  - "???;1;1;0;Eu acho que n\xE3o. De vez em quando alguns humanos acabam aqui. Eu
+    n\xE3o sei o motivo."
+  - Guinevere;1;0;0;Por que eu acreditaria numa porcaria dessas?
+  - "???;1;1;0;Voc\xEA gosta de perguntas espertas, n\xE9? Deixa eu pensar..."
+  - "???;1;1;0;Por que devemos acreditar em qualquer um? O que cria valor em palavras?
+    N\xE3o \xE9..."
+  - Guinevere;1;0;0;CALA A BOCA!
+  - "???;0;0;0;Isso \xE9 rude, Guinivere."
+  - "Guinevere;1;0;0;Cala a boca voc\xEA tamb\xE9m. "
+  - Guinevere;1;0;0;Vamos dizer que eu acredito nessa bobagem. Como eu volto pra casa?
+  - "???;1;1;0;Humanos devem conversar com o gerente. Mas eu nunca vi gato nenhum
+    aqui. Ent\xE3o n\xE3o fa\xE7o ideia."
+  - "???;0;0;0;N\xE3o a chame de gato."
+  - ???;1;1;0;Me desculpa.
+  - "???;1;1;0;N\xF3s ainda n\xE3o nos apresentamos, certo? Esse velho \xE9 o Old
+    Di Lanterns."
+  - Old;1;1;0;Eu sou um fantasma.
+  - "Guinevere;1;0;0;Eu n\xE3o ligo. "
+  - "Guinevere;1;0;0;Cad\xEA esse gerente? Ele precisa aprender as consequencias de
+    sequestro, morrendo."
+  - "Old;1;1;0;Voc\xEAs v\xE3o encontra-lo subindo at\xE9 o \xFAltimo andar."
+  - "Old;1;1;0;Mas eu me acalmaria primeiro. Voc\xEAs ainda n\xE3o tem nomes, t\xEAm?"
+  - "Guinevere;1;0;0;O que quer dizer com isso, seu maniaco? N\xF3s temos nomes."
+  - "Old;1;1;0;Voc\xEA se lembra do seu? Isso \xE9 raro. E voc\xEA, jovem?"
+  - ???;0;0;0;Eu devia?
+  - "Old;1;1;0;Fantasmas v\xE3o esquecendo quem s\xE3o, at\xE9 que deixam de ser.
+    \xC9 por isso que criam um nome."
+  - ???;0;0;0;Eu posso escolher o meu?!
+  - "Old;1;1;0;Sim. Voc\xEA pode ficar com o meu. Podemos ser uma fam\xEDlia de fantasmas!"
+  - "???;0;0;0;A fam\xEDlia de fantasmas."
+  - ???;0;0;0;Meu nome vai ser Laranja Di Lanterns.
+  - "Guinevere;1;0;0;Isso \xE9 t\xE3o est\xFApido. Meu deus. Eu n\xE3o vou te chamar
+    disso."
+  - "Old;1;1;0;Por que n\xE3o transforma em ingl\xEAs? Tudo fica melhor em ingl\xEAs.
+    Orange Di Lanterns."
+  - "Guinevere;1;0;0;Eu vou indo ent\xE3o. Voc\xEAs dois podem continuar com essa
+    loucura a\xED."
+  - Orange;0;0;0;Espera Guinevere. Obrigado, senhor.
+  - "Old;0;0;0;Lembre-se, a porta atr\xE1s de mim deve levar voc\xEAs at\xE9 onde
+    precisam ir."
+  nomeEscolha: 
+  filhos: []

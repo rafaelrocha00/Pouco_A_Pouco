@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d38dc9b2a65db04a82138e057c5fd08, type: 3}
+  m_Name: PinturaNeve
+  m_EditorClassIdentifier: 
+  mensagem:
+  - "Orange;0;0;0;O boneco de neve t\xE1 usando oculos escuros?"
+  - "Guinevere;0;1;0;Sim. \xC9 uma representa\xE7\xE3o de consumerismo. Observe que
+    ele n\xE3o consegue ver as luzes no c\xE9u por causa disso."
+  - "Orange;0;0;0;Eu achei que era s\xF3 por que era legal."
+  - "Guinevere;0;1;0;\xC9 um erro de principiante. Voc\xEA tem de ver al\xE9m do legalismo
+    da imagem."
+  - Guinevere;0;1;0;Bom, meu pai costumava colocar coisas legais na pintura a penas
+    por serem legais.
+  - Guinevere;0;1;0;Por isso que a gente nunca ficou rico.
+  nomeEscolha: 
+  filhos: []

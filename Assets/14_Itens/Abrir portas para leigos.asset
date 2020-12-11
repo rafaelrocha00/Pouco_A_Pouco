@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c0d66b66dd154a47a91fc8db3cda1e9, type: 3}
+  m_Name: Abrir portas para leigos
+  m_EditorClassIdentifier: 
+  nome: Abrir portas para leigos
+  descricao: "As vezes abrir portas pode ser mais dif\xEDcil do que parece. Para esse
+    tipo de trabalho, \xE9 importante o conhecimento t\xE9cnico que esse item oferece."

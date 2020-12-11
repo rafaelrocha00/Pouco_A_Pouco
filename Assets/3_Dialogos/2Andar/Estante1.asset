@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d38dc9b2a65db04a82138e057c5fd08, type: 3}
+  m_Name: Estante1
+  m_EditorClassIdentifier: 
+  mensagem:
+  - "Orange;0;0;0;\xC9 uma estante."
+  - Orange;0;0;0;[Procurar?]
+  nomeEscolha: 
+  filhos:
+  - {fileID: 11400000, guid: 2dbba73365d3a5845bd3608b7e388795, type: 2}
+  - {fileID: 11400000, guid: ce5d0d6cdec7dfe48bfba720855da6f0, type: 2}

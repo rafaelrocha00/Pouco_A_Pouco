@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceba37ecb9d4d014d98243d8fc65bb8c, type: 3}
+  m_Name: Velho3
+  m_EditorClassIdentifier: 
+  mensagem:
+  - "???;5;1;0;Aqui estamos. Eu n\xE3o posso seguir com voc\xEAs. \xC9 s\xF3 passar
+    pela porta."
+  - ???;0;1;0;Pra onde?
+  - "???;5;1;0;Nossa casa. Eles v\xE3o te receber bem. O gerente est\xE1 no \xFAltimo
+    andar."
+  - "???;0;0;0;E voc\xEA?"
+  - "???;5;1;0;Eu estarei aqui fazendo meu trabalho. eu encontro com voc\xEAs depois."
+  nomeEscolha: 
+  filhos: []

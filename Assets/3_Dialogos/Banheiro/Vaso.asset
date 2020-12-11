@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d38dc9b2a65db04a82138e057c5fd08, type: 3}
+  m_Name: Vaso
+  m_EditorClassIdentifier: 
+  mensagem:
+  - "Orange;0;0;0;\xC9 um vaso de planta. Sem plantas."
+  - "Guinevere;0;1;0;Eu entendo o rad\xEDo, mas por que o vaso?"
+  - "Orange;0;0;0;Algu\xE9m deve ter esquecido. Ou \xE9 para pegar sol."
+  - "Orange;0;0;0;Esse lugar \xE9 bem escuro."
+  - "Guinevere;0;1;0;T\xE1, mas cad\xEA a planta?"
+  - Orange;0;0;0;Eles devem ter trocado ela de lugar.
+  - Guinevere;0;1;0;Ou ela morreu sem luz.
+  - "Orange;0;0;0;N\xE3o."
+  - Guinevere;0;1;0;Sim.
+  nomeEscolha: 
+  filhos: []

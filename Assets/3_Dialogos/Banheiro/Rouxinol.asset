@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d38dc9b2a65db04a82138e057c5fd08, type: 3}
+  m_Name: Rouxinol
+  m_EditorClassIdentifier: 
+  mensagem:
+  - "???;4;1;0;Sim, eu devo terminar o relat\xF3rio at\xE9 amanh\xE3."
+  - ???;4;1;0;Espere um pouco, eu tenho visitantes.
+  - Orange;0;0;0;O fantasma do banheiro!
+  - "Guinevere;1;0;0;N\xF3s estamos atrapalhando algo?"
+  - "???;4;1;0;N\xE3o, n\xE3o. Esse \xE9 o meu escrit\xF3rio tempor\xE1rio."
+  - "Guinevere;0;0;0;Por qu\xEA?"
+  - "???;4;1;0;O que? Voc\xEA diz o banheiro? Ele \xE9 mais quieto do que a sala ao
+    lado."
+  - "Orange;0;0;0;O que aconteceu com seu escrit\xF3rio?"
+  - "???;4;1;0;Ah, eu n\xE3o sei se eu devia dizer isso ou n\xE3o."
+  - "???;4;1;0;Mas voc\xEA \xE9 um humano, n\xE3o \xE9?"
+  - "???;4;1;0;Voc\xEA viu aquele cara sarado na entrada?"
+  - "Guinevere;1;0;0;O funcion\xE1rio?"
+  - "???;4;1;0;N\xE3o, que nojo."
+  - ???;4;1;0;Eu digo o cara tocando o ukelele.
+  - Orange;0;0;0;Old?
+  - ???;4;1;0;Ele trabalha aqui faz alguns anos, mas eu nunca consegui olhar para
+    cara dele.
+  - Guinevere;1;0;0;Eck.
+  - "Orange;0;0;0;Meu nome \xE9 Laranja."
+  - "???;4;1;0;Oh, prazer. Meu nome \xE9 Rouxinol Martinis. Eu sou a tesoureira e
+    a arquivista."
+  - "Orange;0;0;0;O que \xE9 uma arquivista?"
+  - "Rouxinol;4;1;0;Um arquivista \xE9\u2026 \xC9 um gravador. N\xF3s gravamos a vida
+    natural das pessoas, em um livro. Todas elas."
+  - Guinevere;1;0;0;Isso soa absurdo.
+  - "Guinevere;1;0;0;E conveniente. Voc\xEA poderia usar isso para se lembrar."
+  - Orange;0;0;0;Sim...
+  - "Rouxinol;4;1;0;N\xE3o, me desculpe, eu esqueci que voc\xEA... N\xE3o \xE9 t\xE3o
+    simples assim. \xC9 que.."
+  - "Rouxinol;4;1;0;A gente n\xE3o pode ler nossas pr\xF3prias mem\xF3rias. Assim,
+    na verdade podemos, mas n\xE3o devemos."
+  - "Guinevere;1;0;0;O que isso significa? Cad\xEA esse livro?"
+  - Rouxinol;4;1;0;Eu nem devia ta falando sobre isso.
+  - "Rouxinol;4;1;0;S\xF3.. Me ou\xE7a, n\xE3o \xE9 uma boa ideia."
+  nomeEscolha: 
+  filhos: []

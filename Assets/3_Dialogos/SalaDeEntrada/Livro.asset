@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d38dc9b2a65db04a82138e057c5fd08, type: 3}
+  m_Name: Livro
+  m_EditorClassIdentifier: 
+  mensagem:
+  - "Orange;0;0;0;\xC9 um livro com v\xE1rias sequ\xEAncias de n\xFAmeros."
+  - "Orange;0;0;0;Rabiscado do lado da p\xE1gina tem uma hist\xF3ria escrita."
+  - Orange;0;0;0;"Os encontros de Ken Levir e Macho Olaf."
+  - Orange;0;0;0;[Ler?]
+  nomeEscolha: 
+  filhos:
+  - {fileID: 11400000, guid: 21bb2050c7ddc514b84527a937b63ec4, type: 2}
+  - {fileID: 11400000, guid: 145d232b507711e4da8b39d77a0383b1, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d38dc9b2a65db04a82138e057c5fd08, type: 3}
+  m_Name: NPC1
+  m_EditorClassIdentifier: 
+  mensagem:
+  - "Orange;0;0;0;Ei, que lugar \xE9 esse?"
+  - "Guinevere;1;0;0;Senhora! Eu vou te processar por sequestro, \xE9 melhor falar
+    alguma coisa!"
+  - "Orange;0;0;0;Ela t\xE1 ignorando a gente."
+  - "Guinevere;1;0;0;N\xE3o precisa dizer o \xF3bvio."
+  nomeEscolha: 
+  filhos: []

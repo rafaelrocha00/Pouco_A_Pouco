@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d38dc9b2a65db04a82138e057c5fd08, type: 3}
+  m_Name: Lampada3
+  m_EditorClassIdentifier: 
+  mensagem:
+  - "Guinevere;0;1;0;N\xE3o tem nem l\xE2mpada nisso."
+  - "Orange;0;0;0;Ser\xE1 que eles pegaram para decorar uma \xE1rvore de natal?"
+  - "Guinevere;0;1;0;Isso \xE9 muito especifico. Voc\xEAs faziam isso?"
+  - 'Orange;0;0;0;Eu acho que sim. Ficava bem bonito. '
+  - "Orange;0;0;0;Meu irm\xE3o costumava cortar papel\xE3o para decorar tamb\xE9m.
+    E voc\xEA?"
+  - "Guinevere;0;1;0;A gente nunca teve uma \xE1rvore."
+  - "Orange;0;0;0;Por qu\xEA?"
+  - "Guinevere;0;1;0;N\xE3o vamos falar disso."
+  nomeEscolha: 
+  filhos: []

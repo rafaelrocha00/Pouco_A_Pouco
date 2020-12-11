@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d38dc9b2a65db04a82138e057c5fd08, type: 3}
+  m_Name: Fantasma
+  m_EditorClassIdentifier: 
+  mensagem:
+  - "Fantasma;3;1;0;Eai meu jovem, t\xE1 afim de comprar uma camisa?"
+  - "Fantasma;3;1;0;N\xF3s temos de todos os tamanhos."
+  - Fantasma;3;1;0;Fantasmas de todo mundo as amam.
+  - "Guinevere;1;0;0;Voc\xEA t\xE1 vendendo roupas? Pra quem?"
+  - "Fantasma;3;1;0;Para voc\xEAs, agora. \xC9 verdade que n\xE3o tem muita gente
+    passando aqui. Mas eu preciso ganhar meu dinheiro."
+  - "Orange;0;0;0;Por qu\xEA um fantasma precisa de dinheiro?"
+  - "Fantasma;3;1;0;\xC9 estranho, n\xE3o \xE9? \xC9 de se esperar que manter esse
+    lugar n\xE3o teria custos."
+  - "Fantasma;3;1;0;Fantasmas n\xE3o comem nem dormem. E tudo mais."
+  - "Fantasma;3;1;0;S\xF3 que sempre tem alguma coisa para pagar. Sempre algo quebra,
+    precisa fazer viagem, festinhas de fim de ano."
+  - "Fantasma;3;1;0;E mesmo que n\xE3o precisem comer, esses malditos s\xF3 comem.
+    O gerente precisa ficar comprando mantimentos e outras porcarias do tipo."
+  - "Fantasma;3;1;0;Ent\xE3o, vai uma camiseta ai n\xE3o? Seja um fantasma completo
+    com uma camisa completa."
+  nomeEscolha: 
+  filhos:
+  - {fileID: 11400000, guid: 620425804c96df74193fe4373dfa268f, type: 2}
+  - {fileID: 11400000, guid: 318da47d5b802d6498312bccf9693740, type: 2}
